@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust: using raw pointers to modify a vector after it has been borrowed. This leads to undefined behavior and potential crashes. The bug.rs file shows the erroneous code, while bugSolution.rs provides a safer alternative.
